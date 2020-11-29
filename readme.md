@@ -3,7 +3,7 @@
 
 ### Spring Boot教程 
 1. [开启Spring Boot](https://www.trick-duo.com/index.php/Spring-Boot/%E5%BC%80%E5%90%AFSpring-Boot.html)
-2. [Spring Boot基础配置](https://mrbird.cc/Spring-Boot%20basic%20config.html)
+2. [Spring Boot基础配置](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE.html)
 3. [Spring Boot中使用MyBatis](https://mrbird.cc/Spring-Boot%20Mybatis.html)
 4. [Spring Boot中使用JdbcTemplate](https://mrbird.cc/Spring-Boot%20JdbcTemplate.html)
 5. [Spring Boot MyBatis配置Druid多数据源](https://mrbird.cc/Spring-Boot-MyBatis%20Druid.html)
