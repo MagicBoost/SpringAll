@@ -10,7 +10,7 @@
 6. [Spring Boot JdbcTemplate配置Druid多数据源](https://mrbird.cc/Spring-Boot-JdbcTemplate%20Druid.html)
 7. [Spring Boot AOP记录用户操作日志](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot-AOP%E8%AE%B0%E5%BD%95%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97.html)
 8. [Spring Boot中使用thymeleaf](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8thymeleaf.html)
-9. [Spring Boot中使用Redis缓存数据](https://mrbird.cc/Spring-Boot%20cache.html)
+9. [Spring Boot中使用Redis缓存数据](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8Redis%E7%BC%93%E5%AD%98.html)
 10. [Spring Boot中使用Ehcache缓存数据](https://mrbird.cc/Spring-Boot%20cache.html)
 11. [Spring Boot中的JSON技术](https://mrbird.cc/Spring-Boot%20JSON.html)
 12. [Spring Boot中编写单元测试](https://mrbird.cc/Spring-Boot%20TESTing.html)
