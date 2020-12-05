@@ -12,7 +12,7 @@
 8. [Spring Boot中使用thymeleaf](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8thymeleaf.html)
 9. [Spring Boot中使用Redis缓存数据](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8Redis%E7%BC%93%E5%AD%98.html)
 10. [Spring Boot中使用Ehcache缓存数据](https://mrbird.cc/Spring-Boot%20cache.html)
-11. [Spring Boot中的JSON技术](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E7%9A%84JSON%E6%8A%80%E6%9C%AF.html)
+11. [Spring Boot中使用Jackson](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8Jackson.html)
 12. [Spring Boot中编写单元测试](https://mrbird.cc/Spring-Boot%20TESTing.html)
 13. [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
 14. [使用Actuator监控Spring Boot应用](https://mrbird.cc/Acutator-Spring-Boot.html)
