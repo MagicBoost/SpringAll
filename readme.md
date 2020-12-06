@@ -13,7 +13,7 @@
 9. [Spring Boot中使用Redis缓存数据](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8Redis%E7%BC%93%E5%AD%98.html)
 10. [Spring Boot中使用Ehcache缓存数据](https://mrbird.cc/Spring-Boot%20cache.html)
 11. [Spring Boot中使用Jackson](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E4%BD%BF%E7%94%A8Jackson.html)
-12. [Spring Boot中编写单元测试](https://mrbird.cc/Spring-Boot%20TESTing.html)
+12. [Spring Boot中编写单元测试](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot%E4%B8%AD%E7%BC%96%E5%86%99%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html)
 13. [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
 14. [使用Actuator监控Spring Boot应用](https://mrbird.cc/Acutator-Spring-Boot.html)
 15. [使用Spring Boot发送邮件](https://mrbird.cc/Spring-Boot-Email.html)
