@@ -4,6 +4,6 @@ import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 
 public interface SeqenceMapper {
-	@Select("select ${seqName}.nextval from dual")
+	@Select("select ${seqName} from t_user order by USER_ID desc limit 1")
 	Long getSequence(@Param("seqName") String seqName);
 }

@@ -25,7 +25,7 @@ public class UserServiceImpl extends BaseService<User> implements UserService {
 
 	@Override
 	public void saveUser(User user) {
-		user.setId(this.getSequence("seq_user"));
+		user.setId(this.getSequence("USER_ID")+1);
 		user.setCreateTime(new Date());
 		this.save(user);
 	}
