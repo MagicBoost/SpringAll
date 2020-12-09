@@ -19,7 +19,7 @@
 15. [使用Spring Boot发送邮件](https://mrbird.cc/Spring-Boot-Email.html)
 16. [使用Spring Boot Admin监控服务](https://mrbird.cc/Spring-Boot-Admin.html)
 17. [Spring Boot Devtools热部署](https://mrbird.cc/Spring-Boot-Devtools.html)
-18. [Spring Boot logback日志配置](https://mrbird.cc/Spring-Boot-logback.html)
+18. [Spring Boot logback日志配置](https://www.trick-duo.com/index.php/Spring-Boot/Spring-Boot-logback.html)
 19. [Spring Boot项目打包成war包](https://mrbird.cc/Spring-Boot%20war.html)
 20. [Linux下部署Spring Boot jar](https://mrbird.cc/Linux%20Spring-Boot-jar.html)
 21. [Spring Boot中使用Jsoup防御XSS攻击](https://mrbird.cc/Jsoup%20XSS.html)
